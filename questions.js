@@ -24,35 +24,35 @@ let questions = [
   },
   {
     numb: 3,
-    question: "Qual o nome do evento astronômico responsável pelo dia mais longo do ano?",
-    answer: "Solstício de verão",
+    question: "A ética teleológica tradicional tem qual fundamentação?",
+    answer: " A ideia da finalidade da ação",
     options: [
-      "Equinócio de outono",
-      "Solstício de inverno",
-      "Solstício de verão",
-      "Solstício de outono"
+      "Julgar as ações de acordo com sua finalidade",
+      "Dizer a verdade por ser ela um dever",
+      "A ideia de não interferencia do ser",
+      "A ideia da finalidade da ação"
     ]
   },
   {
     numb: 4,
-    question: "Quantos pares de costelas um ser humano, normalmente, possui?",
-    answer: "12",
+    question: "A mentira, qualquer que seja sua motivação, jamais passaria pelo crivo do imperativo categórico. De quem é essa proposta?",
+    answer: "Benjamin Constant",
     options: [
-      "12",
-      "11",
-      "14",
-      "13"
+      "Márcio Sérgio Cortella  ",
+      "Benjamin Constant",
+      "Aristóteles",
+      "Platão"
     ]
   },
   {
     numb: 5,
-    question: "Quais planetas do sistema solar realizam seu movimento de rotação em sentido horário?",
-    answer: "Vênus e Urano",
+    question: "Para Kant a mentira deve ser ?",
+    answer: "Evitada",
     options: [
-      "Saturno e Júpiter",
-      "Vênus e Urano",
-      "Terra e Marte",
-      "Mercúrio e Saturno"
+      "Benefício",
+      "Necessitada",
+      "Motivação",
+      "Evitada"
     ]
   },
   // you can uncomment the below codes and make duplicate as more as you want to add question
