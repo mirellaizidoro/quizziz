@@ -2,24 +2,24 @@
 let questions = [
   {
     numb: 1,
-    question: "Quem foi a única pessoa na história a receber o Prêmio Nobel em áreas científicas diferentes?",
-    answer: "Marie Curiee",
+    question: "O que Kant afirma sobre o imperativo?",
+    answer: "Não impede ninguém a mentir",
     options: [
-      "Albert Einstein",
-      "Marie Curiee",
-      "Stephen Hawking",
-      "Linus Pauling"
+      "Não impede ninguém a mentir",
+      "Te aconselha a mentir",
+      "Que é necessário mentir",
+      "Que mentir não é uma solução viável"
     ]
   },
   {
     numb: 2,
-    question: "Qual o país mais novo do mundo?",
-    answer: "Sudão do Sul",
+    question: "Para o utilitarismo, a finalidade das ações humanas é o?",
+    answer: "Prazer",
     options: [
-      "Timor Lestet",
-      "Montenegro",
-      "Sudão do Sul",
-      "Kosovo"
+      "Dever",
+      "Direito",
+      "Prazerl",
+      "Salvação"
     ]
   },
   {
